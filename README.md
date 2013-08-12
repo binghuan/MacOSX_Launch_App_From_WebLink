@@ -23,7 +23,7 @@ BH_MacBookPro:test.app binghuan$ tree
 
 
 finally, add following key into Info.plist, that's it.
-
+```html
 <key>CFBundleURLTypes</key>
 <array>
    <dict>
@@ -37,5 +37,5 @@ finally, add following key into Info.plist, that's it.
 </array>
 <key>NSUIElement</key>
 <true/>
-
+```
 </pre>
