@@ -23,6 +23,7 @@ BH_MacBookPro:test.app binghuan$ tree
 
 
 finally, add following key into Info.plist, that's it.
+</pre>
 ```
 <key>CFBundleURLTypes</key>
 <array>
@@ -38,4 +39,3 @@ finally, add following key into Info.plist, that's it.
 <key>NSUIElement</key>
 <true/>
 ```
-</pre>
