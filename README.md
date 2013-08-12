@@ -1,4 +1,4 @@
-#MEMO
+# MEMO
 
 Reference 1. http://www.macosxautomation.com/applescript/linktrigger/
 Reference 2. http://hublog.hubmed.org/archives/001154.html
