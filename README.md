@@ -1,5 +1,6 @@
 # MEMO
 
+<pre>
 Reference 1. http://www.macosxautomation.com/applescript/linktrigger/
 Reference 2. http://hublog.hubmed.org/archives/001154.html
 Following method by using reference 2. 
@@ -22,7 +23,7 @@ BH_MacBookPro:test.app binghuan$ tree
 
 
 finally, add following key into Info.plist, that's it.
-
+</pre>
 <key>CFBundleURLTypes</key>
 <array>
    <dict>
